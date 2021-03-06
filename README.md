@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-#### **Current Projects**
+### **Current Projects**
 
 - Cathub
 - S++
