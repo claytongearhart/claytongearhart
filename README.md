@@ -2,10 +2,11 @@
 
 ### **Current Projects**
 
-- Cathub
-- S++
-- Speed++
-- SCX
+- Cathub (Highly Active)
+- S++ (Progress Slow)
+- Speed++ (Progress Slow)
+- SCX (I last worked on this so long ago)
+- SBuild (Highly Active)
 
 
 
@@ -13,8 +14,3 @@
 
 
 
-
-
-
-
-![Swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
