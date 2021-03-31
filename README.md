@@ -4,9 +4,9 @@
 
 - Cathub (Highly Active)
 - S++ (Progress Slow)
-- Speed++ (Progress Slow)
+- Speed++ (Highly Active, slow progress due to bugs)
 - SCX (I last worked on this so long ago)
-- SBuild (Highly Active)
+- SBuild (Stalled and Deprecated)
 
 
 
