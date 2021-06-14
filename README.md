@@ -1,4 +1,4 @@
-## Hey!
+## Hello 👋
 
 #### I don't have anything to put here, I'm just finding my way around Github.
 
