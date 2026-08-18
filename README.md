@@ -1,8 +1,4 @@
 ## Hello 👋
-
-I don't have any big projects right now, but feel free to look around my profile. For now I'm just trying to find my way around Github.
-
-
-
+I'm Clayton Gearhart, an actuarial science student at Michigan State University. I've been writing C++ since middle school, and have become very fond of low-level systems & cpp's bloated feature space.
 
 
